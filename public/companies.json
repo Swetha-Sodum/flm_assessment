@@ -1,0 +1,31 @@
+[
+  { "id": 1, "name": "TechNova Solutions", "location": "Bangalore", "industry": "Software" },
+  { "id": 2, "name": "GreenLeaf Foods", "location": "Hyderabad", "industry": "Food" },
+  { "id": 3, "name": "Skyline Constructions", "location": "Delhi", "industry": "Construction" },
+  { "id": 4, "name": "FinEdge Analytics", "location": "Mumbai", "industry": "Finance" },
+  { "id": 5, "name": "AquaPure Water Co.", "location": "Chennai", "industry": "Manufacturing" },
+
+  { "id": 6, "name": "PixelByte Media", "location": "Bangalore", "industry": "Software" },
+  { "id": 7, "name": "HealthBridge Pharma", "location": "Chennai", "industry": "Manufacturing" },
+  { "id": 8, "name": "AgriGrow Industries", "location": "Hyderabad", "industry": "Food" },
+  { "id": 9, "name": "UrbanNest Interiors", "location": "Mumbai", "industry": "Construction" },
+  { "id": 10, "name": "BlueOrbit Aerospace", "location": "Bangalore", "industry": "Manufacturing" },
+
+  { "id": 11, "name": "EcoWatt Energy", "location": "Chennai", "industry": "Manufacturing" },
+  { "id": 12, "name": "SoftSquare Technologies", "location": "Chennai", "industry": "Software" },
+  { "id": 13, "name": "MetroLine Logistics", "location": "Delhi", "industry": "Construction" },
+  { "id": 14, "name": "CrystalClean Services", "location": "Mumbai", "industry": "Manufacturing" },
+  { "id": 15, "name": "FreshCart Organics", "location": "Hyderabad", "industry": "Food" },
+
+  { "id": 16, "name": "InnoWave Robotics", "location": "Bangalore", "industry": "Manufacturing" },
+  { "id": 17, "name": "SilverStone Textiles", "location": "Chennai", "industry": "Manufacturing" },
+  { "id": 18, "name": "NextGen AutoParts", "location": "Chennai", "industry": "Manufacturing" },
+  { "id": 19, "name": "CloudNest Hosting", "location": "Hyderabad", "industry": "Software" },
+  { "id": 20, "name": "FarmFresh Dairy Co.", "location": "Mumbai", "industry": "Food" },
+
+  { "id": 21, "name": "PrimeShield Security", "location": "Delhi", "industry": "Finance" },
+  { "id": 22, "name": "AeroLift Drones", "location": "Bangalore", "industry": "Manufacturing" },
+  { "id": 23, "name": "BuildRight Hardware", "location": "Mumbai", "industry": "Construction" },
+  { "id": 24, "name": "Zenith HR Solutions", "location": "Chennai", "industry": "Finance" },
+  { "id": 25, "name": "SwiftPay Fintech", "location": "Bangalore", "industry": "Finance" }
+]
